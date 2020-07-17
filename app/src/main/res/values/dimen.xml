@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="border_width">30</dimen>
+    <dimen name="border_height">60</dimen>
+    <dimen name="border_size">2</dimen>
+    <dimen name="space">5</dimen>
+</resources>

@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         findViewById(R.id.text).setOnClickListener(this);
+        findViewById(R.id.line_feed).setOnClickListener(this);
     }
 
     @Override
@@ -20,6 +21,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (view.getId()){
             case R.id.text:
                 startActivity(new Intent(MainActivity.this,SimpleTextActivity.class));
+                break;
+            case R.id.line_feed:
+                startActivity(new Intent(MainActivity.this,SimpleLineFeedActivity.class));
                 break;
         }
     }

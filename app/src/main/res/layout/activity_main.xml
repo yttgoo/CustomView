@@ -6,19 +6,32 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <TextView
             android:id="@+id/text"
-            android:background="@drawable/between_line_bg"
             android:layout_width="match_parent"
             android:layout_height="50dp"
+            android:background="@drawable/between_line_bg"
             android:gravity="center"
             android:text="自定义view 显示数字变化动画及触摸改变"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/line_feed"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/between_line_bg"
+            android:gravity="center"
+            android:text="自动折行可滑动的view"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/text" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

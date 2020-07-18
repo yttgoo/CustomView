@@ -18,6 +18,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".SimpleTextActivity"/>
+        <activity android:name=".SimpleLineFeedActivity"/>
     </application>
 
 </manifest>

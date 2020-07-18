@@ -8,4 +8,9 @@
         <attr name="space" format="dimension"/>
         <attr name="text_size" format="dimension"/>
     </declare-styleable>
+
+    <declare-styleable name="MyLineFeedView">
+        <attr name="horizontalSpace" format="integer|dimension"/>
+        <attr name="verticalSpace" format="integer|dimension"/>
+    </declare-styleable>
 </resources>

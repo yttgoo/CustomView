@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.android.customview.view.MyLineFeedView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/flexbox2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorAccent"
+    android:padding="5dp"
+    app:horizontalSpace="10dp"
+    app:verticalSpace="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1111" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text231" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text333331" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="terrrrxt1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="tex222t1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="6666666" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="4444" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1jkkjj" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1111" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/click_state_bg"
+
+        android:padding="5dp"
+        android:text="text231" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@color/colorPrimary"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text333331" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="terrrrxt1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="tex222t1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="6666666" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="4444" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/click_state_bg"
+        android:padding="5dp"
+        android:text="text1jkkjj" />
+</com.example.android.customview.view.MyLineFeedView>

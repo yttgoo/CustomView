@@ -15,6 +15,10 @@
         <item name="border_color">@color/color_black</item>
         <item name="text_size">16dp</item>
     </style>
+    <style name="line_feed_def_style">
+        <item name="horizontalSpace">5dp</item>
+        <item name="verticalSpace">5dp</item>
+    </style>
 
 
 </resources>
